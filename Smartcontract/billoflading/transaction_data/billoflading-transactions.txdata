@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "billofladingExists",
+        "transactionLabel": "A test billofladingExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createBilloflading",
+        "transactionLabel": "A test createBilloflading transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readBilloflading",
+        "transactionLabel": "A test readBilloflading transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateBilloflading",
+        "transactionLabel": "A test updateBilloflading transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteBilloflading",
+        "transactionLabel": "A test deleteBilloflading transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
